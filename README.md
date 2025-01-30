@@ -42,13 +42,17 @@ Seruni is holistic healing practitioner. This personal website mixed with simple
 - Set up SQLite as db
 - Build frontend form to input product
 - Data validation
+- Improve product and checkout page to become dynamic
 
 ## W2 February 2025
 - Create API to read and write transaction
 - Create API to write and update product
 - Research about how to deliver digital product (email/access on web/shared docs)
 - API documentation
+- Improve product highlight on home page to become dynamic
 
 ## W3 February 2025
 - Build frontend for blog page
 - Create API to read, write and update blog
+- Improve blog page to become dynamic
+- Improve blog highlight on home page to become dynamic
