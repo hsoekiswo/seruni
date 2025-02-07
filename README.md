@@ -31,22 +31,22 @@ Seruni is holistic healing practitioner. This personal website mixed with simple
 
 # Acomplishment & To do
 ## W4 January 2025
-- Build frontend home, store, product, auth pages
-- Implement authentication mechanism: login users can checkout
-- Minimum styling frontend
-- Deploy frontend & backend
+- Build frontend home, store, product, auth pages ✅ 
+- Implement authentication mechanism: login users can checkout ✅ 
+- Minimum styling frontend ✅ 
+- Deploy frontend & backend ✅ 
 
 ## W1 February 2025
-- Create API to read product, account
-- Build frontend for blog and my account pages
-- Set up SQLite as db
+- Create API to read product, account ✅ 
+- Build frontend for blog and my account pages ✅ 
+- Set up SQLite as db ✅ 
 - Build frontend form to input product
 - Data validation
 - Improve product and checkout page to become dynamic
 
 ## W2 February 2025
 - Create API to read and write transaction
-- Create API to write and update product
+- Create API to write and update product ✅ 
 - Research about how to deliver digital product (email/access on web/shared docs)
 - API documentation
 - Improve product highlight on home page to become dynamic
