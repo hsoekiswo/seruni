@@ -13,6 +13,7 @@ Seruni is holistic healing practitioner. This personal website mixed with simple
 - [Fellexandro Ruby Wabsite](https://fellexandroruby.com/product/15-tools-of-writing/)
 - [Touch for Health Education](https://fellexandroruby.com/product/15-tools-of-writing/)
 - [Menatar Bawah Sadar](https://menatarbawahsadar.id/collections/online-course)
+- [Swamp Lily](https://swamplily.io)
 
 # Features
 - Home page
@@ -29,30 +30,24 @@ Seruni is holistic healing practitioner. This personal website mixed with simple
 # Entitiy Relationsip Diagram
 ![ERD](./diagrams/erd.png)
 
-# Acomplishment & To do
-## W4 January 2025
+# Acomplishment & Next Development
+## Acomplishment
 - Build frontend home, store, product, auth pages ✅ 
 - Implement authentication mechanism: login users can checkout ✅ 
 - Minimum styling frontend ✅ 
 - Deploy frontend & backend ✅ 
-
-## W1 February 2025
 - Create API to read product, account ✅ 
 - Build frontend for blog and my account pages ✅ 
 - Set up SQLite as db ✅ 
-- Build frontend form to input product
-- Data validation
-- Improve product and checkout page to become dynamic
-
-## W2 February 2025
-- Create API to read and write transaction
+- Build frontend form to input product ✅ 
+- Improve product and checkout page to become dynamic ✅ 
 - Create API to write and update product ✅ 
-- Research about how to deliver digital product (email/access on web/shared docs)
-- API documentation
-- Improve product highlight on home page to become dynamic
 
-## W3 February 2025
-- Build frontend for blog page
-- Create API to read, write and update blog
-- Improve blog page to become dynamic
-- Improve blog highlight on home page to become dynamic
+## Next Development
+- Cart system
+- Data validation
+- Create API to read and write transaction
+- Access purchased product system (email/access on web/shared docs)
+- API documentation
+- Finished blog pages
+- Improve home page
